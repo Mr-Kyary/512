@@ -1,6 +1,6 @@
 require 'dxopal'
 require_remote './background/grid.rb'
-require_remote './block.rb'
+require_remote './block/block.rb'
 include DXOpal
 # require_relative ”./background.rb”
 

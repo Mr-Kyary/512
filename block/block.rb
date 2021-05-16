@@ -14,7 +14,7 @@ class Block < Sprite
   end
 
   def cal_pos(num)
-    ##テスト機能 要書き換え。。
+    ##テスト機能 要書き換え。。。。
     if (num == 120) || (num == 220) || (num == 320) || (num == 420)
       if num ==  120
         return 0
